@@ -11,6 +11,7 @@ Demo 链接：http://skywingjiang.gitee.io/timeselectordial
 ## 依赖技术
 
  - HTML，CSS，Javascript
+ - SVG
 
 ## 图片
 
